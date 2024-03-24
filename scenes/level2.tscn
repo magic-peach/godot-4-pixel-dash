@@ -553,7 +553,7 @@ position = Vector2(998, 202)
 position = Vector2(1156, 96)
 
 [node name="Collectpine7" parent="SceneObjects/Collectables group" instance=ExtResource("6_7egk0")]
-position = Vector2(951, 4)
+position = Vector2(953, 4)
 
 [node name="Collectpine8" parent="SceneObjects/Collectables group" instance=ExtResource("6_7egk0")]
 position = Vector2(1139, -95)

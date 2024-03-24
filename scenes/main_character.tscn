@@ -184,7 +184,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"running",
-"speed": 17.0
+"speed": 13.0
 }]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_oalkq"]
@@ -198,8 +198,9 @@ texture_filter = 1
 position = Vector2(43, 135)
 scale = Vector2(3.00781, 2.90625)
 sprite_frames = SubResource("SpriteFrames_bgwou")
+animation = &"running"
 autoplay = "default"
-frame_progress = 0.987113
+frame_progress = 0.996194
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(44, 147.5)
